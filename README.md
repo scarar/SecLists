@@ -1,4 +1,4 @@
-![seclists.png](https://danielmiessler.com/images/seclists-long.png "seclists.png")
+![seclists.png](SecLists.png "seclists.png")
 
 ### About SecLists
 
@@ -58,6 +58,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 - [FuzzDB](https://github.com/fuzzdb-project/fuzzdb)
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - [Cook](https://github.com/giteshnxtlvl/cook)
+- [SamLists](https://github.com/the-xentropy/samlists)
 
 - - -
 
