@@ -4,6 +4,7 @@
 .config
 .cvs
 .cvsignore
+.env
 .forward
 .git
 .git-rewrite
@@ -86,6 +87,7 @@
 .well-known/repute-template
 .well-known/resourcesync
 .well-known/security.txt
+.well-known/humans.txt
 .well-known/stun-key
 .well-known/thread
 .well-known/time
@@ -174,6 +176,9 @@
 403
 404
 42
+4DWEBTEST
+4DSTATS
+4DHTMLSTATS
 5
 50
 500
@@ -4721,3 +4726,5 @@ zt
 ~user
 ~webmaster
 ~www
+dns-query?dns=q80BAAABAAAAAAAAA3d3dwdleGFtcGxlA2NvbQAAAQAB
+dns-query?name=google.com&type=A

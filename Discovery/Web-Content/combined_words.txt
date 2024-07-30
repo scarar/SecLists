@@ -4,6 +4,7 @@
 .config
 .cvs
 .cvsignore
+.env
 .forward
 .git
 .git-rewrite
@@ -86,6 +87,7 @@
 .well-known/repute-template
 .well-known/resourcesync
 .well-known/security.txt
+.well-known/humans.txt
 .well-known/stun-key
 .well-known/thread
 .well-known/time
@@ -174,6 +176,9 @@
 403
 404
 42
+4DWEBTEST
+4DSTATS
+4DHTMLSTATS
 5
 50
 500
@@ -45556,7 +45561,6 @@ zoomifyViewer
 .email.shtml
 .en.htm
 .engine
-.env
 .error-log
 .eshop
 .esp
@@ -65928,6 +65932,7 @@ __DotNet
 __MACOSX
 _dbAdmin
 aImages
+actuator
 adMan
 add2Cart
 addActivity

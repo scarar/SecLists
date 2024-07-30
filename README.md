@@ -8,6 +8,18 @@ This project is maintained by [Daniel Miessler](https://danielmiessler.com/), [J
 
 - - -
 
+<!--- details anchor -->
+
+### Repository details
+
+Size of a complete clone of SecLists is currently at `1.4 GB`
+
+Cloning this repository should take 4-5 minutes at 5MB/s speeds.
+
+<!--- details anchor -->
+
+- - -
+
 ### Install
 
 **Zip**
@@ -35,6 +47,12 @@ git clone https://github.com/danielmiessler/SecLists.git
 
 ```
 apt -y install seclists
+```
+
+**BlackArch** ([Tool Page](https://blackarch.org/tools.html))
+
+```
+sudo pacman -S seclists
 ```
 
 - - -
@@ -66,8 +84,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 This project is licensed under the [MIT license](LICENSE).
 
-![MIT License](https://danielmiessler.com/images/mitlicense.png)
-
+[![MIT License](https://img.shields.io/badge/license-MIT_License-blue)](https://opensource.org/licenses/MIT)
 —
 
 <sup>NOTE: Downloading this repository is likely to cause a false-positive alarm by your anti-virus or anti-malware software, the filepath should be whitelisted. There is nothing in SecLists that can harm your computer as-is, however it's not recommended to store these files on a server or other important system due to the risk of local file include attacks.</sup>
